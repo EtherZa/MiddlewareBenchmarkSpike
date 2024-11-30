@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.DependencyInjection.Extensions;
+global using MiddlewareBenchmark.Consumers;
+global using MiddlewareBenchmark.Contracts;
+global using MiddlewareBenchmark.Infrastructure;
+global using MiddlewareBenchmark.Interceptors;
